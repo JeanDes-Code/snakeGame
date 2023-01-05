@@ -9,7 +9,7 @@ window.onload = () => {
 }
 
 function gameLoop() {
-    setInterval(show, 1000/20) // 30 fps
+    setInterval(show, 1000/20) // 20 fps
 }
 
 function show() {
